@@ -1,16 +1,13 @@
-## Hi there 👋
+# <a href="https://linkedin.com/in/trevor-pulliam/">Trevor's</a> IT & Cybersecurity Project Portfolio 🔐
 
-<!--
-**trevorlawrence/trevorlawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love information systems and cybersecurity and learning about this field. This portfolio highlights hands-on projects in cloud, vulnerability management, and secure system administration using real-world tools and environments.
 
-Here are some ideas to get you started:
+## ⚠️ Vulnerability Management Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Vulnerability Management Program Implementation]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+
+## 🚨 Threat Hunting and Security Operations
+
+# PENDING
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**

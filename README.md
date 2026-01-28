@@ -9,5 +9,4 @@ I love information systems and cybersecurity and learning about this field. This
 
 ## 🚨 Threat Hunting and Security Operations
 
-# PENDING
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting Scenario (Devices Exposed to the Internet)](https://github.com/trevorlawrence/threat-hunt-internet-facing)**

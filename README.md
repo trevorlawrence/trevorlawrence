@@ -9,4 +9,5 @@ I love information systems and cybersecurity and learning about this field. This
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (Tor Browser in Enterprise Environment)](https://github.com/trevorlawrence/threat-hunt-tor-browser)**
 - **[Threat Hunting Scenario (Devices Exposed to the Internet)](https://github.com/trevorlawrence/threat-hunt-internet-facing)**

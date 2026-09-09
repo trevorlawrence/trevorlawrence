@@ -5,7 +5,7 @@ I love information systems and cybersecurity and learning about this field. This
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/trevorlawrence/vulnerability-management-program)**
-- **[DISA STIG Remediation & Compliance](https://github.com/trevorlawrence/DISA-STIG-Implementations/blob/main/README.md)**
+- **[DISA STIG Remediation & Compliance](https://github.com/trevorlawrence/DISA-STIG-Implementations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
